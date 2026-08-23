@@ -6,7 +6,7 @@ DisputeIQ is a portfolio product for payment dispute triage. It helps an analyst
 
 ## Try it
 
-- **Live demo:** Coming soon after the Vercel deployment
+- **Live demo:** [disputeiq-five.vercel.app](https://disputeiq-five.vercel.app)
 - **Demo mode:** No account or API key required
 - **Interactive workspace:** GitHub sign-in and a configured Supabase project required
 - **Optional AI mode:** Provide a Gemini API key for the current browser session. The key is never persisted or logged by the application.
