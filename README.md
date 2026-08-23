@@ -17,6 +17,8 @@ Demo mode is deterministic, so reviewers can explore the workflow without creden
 
 ![DisputeIQ analyst workspace with queue metrics, evidence, and a validated recommendation](public/disputeiq-workbench.png)
 
+[Watch the 20-second analyst workflow](public/disputeiq-demo.webm)
+
 ## The problem
 
 Dispute analysts must balance speed, loss prevention, evidence quality, and policy compliance. A confident recommendation is not useful if the analyst cannot trace it to evidence, challenge it, or explain the final decision later.
